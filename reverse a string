@@ -1,0 +1,5 @@
+s=str(input("enter a string"))
+print("reverse of string is:")
+print(s[::-1])
+
+
